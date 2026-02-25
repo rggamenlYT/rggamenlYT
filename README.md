@@ -26,4 +26,3 @@ I specialize in creating functional scripts and tools, mainly focusing on the Fi
 
 ### 🔗 Quick Links
 - [Check my public scripts](https://github.com/rggamenlYT?tab=repositories)
-- [Report an issue](https://github.com/rggamenlYT/policevehicle/issues)
