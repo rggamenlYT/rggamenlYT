@@ -20,7 +20,7 @@ I specialize in creating functional scripts and tools, mainly focusing on the Fi
 ### 📊 My Activity
 ![rggamenlYT's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rggamenlYT&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rggamenlYT&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rggamenlYT&theme=tokyonight&hide_border=false&langs_count=5)
 
 ---
 
